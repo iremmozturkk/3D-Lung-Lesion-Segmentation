@@ -1,0 +1,6 @@
+operation,memory_mb
+initial_memory,109.6953125
+nifti_loading,382.85546875
+prediction_loading,96.26953125
+matplotlib_render,17.28515625
+memory_cleanup,481.00390625

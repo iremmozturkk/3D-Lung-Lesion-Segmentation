@@ -1,0 +1,5 @@
+operation,file,file_size_mb,load_time_sec
+csv_load,mela_master_dataframe.csv,0.18879222869873047,0.014540672302246094
+nifti_load,mela_0001.nii.gz,121.76255416870117,2.1460371017456055
+npy_load,mela_0001_pred.npy,96.2501220703125,1.0393238067626953
+repeated_nifti_load,mela_0001.nii.gz,121.76255416870117,2.494423532485962
